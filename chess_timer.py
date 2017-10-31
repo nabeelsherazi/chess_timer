@@ -2,9 +2,8 @@ import pygame
 import time
 
 pygame.init()
-pygame.mixer.init()
-pygame.mixer.music.load("lose.wav")
 pygame.display.init()
+pygame.mixer.init()
 pygame.font.init()
 
 WIDTH = 720
@@ -14,6 +13,7 @@ BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
+pygame.mixer.music.load("lose.wav")
 font = pygame.font.SysFont('Calibri', 30)
 clock = pygame.time.Clock()
 
