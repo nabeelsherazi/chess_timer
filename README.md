@@ -14,7 +14,7 @@ The timer is by default set to 5 second move intervals, but this, as well as oth
 
 ## Bugs
 
-There are literally no bugs in this program I guarantee it. It's like 30 entire lines my guy.
+There are literally no bugs in this program I guarantee it. It's like 80 entire lines my guy.
 
 ## Contact
 
