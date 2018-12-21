@@ -18,4 +18,4 @@ There are literally no bugs in this program I guarantee it. It's like 80 entire 
 
 ## Contact
 
-sherazi@husky.neu.edu if you have questions or just want to say hi.
+sherazi.n@husky.neu.edu if you have questions or just want to say hi.
